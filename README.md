@@ -1,0 +1,2 @@
+# Type Error in TypeScript Function
+This repository demonstrates a common type error in TypeScript that occurs when function parameters have mismatched types. The `add` function expects two numbers as input, but the code passes a string as the second argument which results in a type error. The solution involves type checking the parameters or using type assertion to explicitly convert the string to a number.
